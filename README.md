@@ -9,7 +9,7 @@ This tool will help you create a network of related tags on Medium, starting fro
 
 * Go to the mediumology folder 
 ```
-cd path to the mediumology folder
+cd pathToTheMediumologyFolder
 ```
 
 * Install node modules 
