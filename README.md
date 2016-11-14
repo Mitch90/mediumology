@@ -4,13 +4,13 @@ To run mediumology:
 1. Make sure you have [Node](https://nodejs.org/en/) installed
 2. Clone the repository
 3. Go to the mediumology folder
-    'cd *path to the mediumology folder*'
+    '''cd *path to the mediumology folder*'''
 4. Install node modules
-    'npm install'
+    '''npm install'''
 5. Open **index.js** and choose the topic to analyze and the depth of the search
 ```javascript
     var startingPoint = 'privacy',
         depth = 3;
 ```
 6. Run the script
-    'node index.js'
+    '''node index.js'''
