@@ -1,21 +1,15 @@
 {
-  "name": "mediumology",
+  "name": "mediumology_2",
   "version": "1.0.0",
-  "description": "Medium scraper to analyze topics co-occurence",
+  "description": "second version of mediumology, a tool that helps you create a network of correlated tags on Medium",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "medium",
-    "scraper",
-    "topic",
-    "co-occurrence"
-  ],
-  "author": "Mitch90",
+  "author": "Michele Invernizzi",
   "license": "GPL-3.0",
   "dependencies": {
-    "nightmare": "^2.8.1",
+    "request": "^2.79.0",
     "underscore": "^1.8.3"
   }
 }
